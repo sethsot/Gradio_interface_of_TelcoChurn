@@ -13,7 +13,7 @@
 ## Summary <a name="summary"></a>
 | Code      | Name        | Published Article |   |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Customer Churn on Gradio | https://medium.com/@oparetwumseth/empowering-data-driven-decision-making-with-gradio-a-case-study-on-customer-attrition-3d886f49468e  |  |
+| P4 | Customer Churn on Gradio | https://medium.com/@oparetwumseth/empowering-data-driven-decision-making-with-gradio-a-case-study-on-customer-attrition-3d886f49468e  |  |
 
 ## Project Description <a name="project-description"></a>
    
